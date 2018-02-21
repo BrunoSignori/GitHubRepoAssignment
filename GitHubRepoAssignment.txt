@@ -1,0 +1,9 @@
+create a folder : mkdir 
+initialize git: git init
+make a readme : mkdir readme.md
+see status: git status
+add : git add .
+commit: git commit -m “first commit”
+push changes: git remote add origin https://github.com/BrunoSignori/GitHubRepoAssignment.git
+git push -u origin master
+
